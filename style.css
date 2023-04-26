@@ -1,0 +1,61 @@
+.topo{
+    background-image: linear-gradient( to bottom, #c5ebd6, #063d1e);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    padding: 40px;
+    box-shadow: 15px 15px 15px;
+    border-radius: 30px ;
+    
+    
+}
+
+h1{
+    color: aliceblue;
+}
+
+.tudo
+{
+    color: aliceblue;
+}
+
+.hist{
+    background-image: linear-gradient( to left, #ffffff, #063d1e);    
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+.aprimeira{
+    background-image: linear-gradient( to left, #ffffff, #063d1e);    
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+.novomascote{
+    background-image: linear-gradient( to left, #ffffff, #063d1e);    
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;  
+}
+
+.video{
+  background-color: #063d1e;
+    padding: 69px;
+    text-align: center;
+}
+.final{
+    background-color: #46ad73;
+    margin: 40px;
+    border-radius: 10px;
+    
+    
+}
+h3{
+    background-color: #063d1e;
+    color: white;
+    border-radius: 10px;
+    margin: 40px;
+}
+footer{
+    background-color: white;
+    text-align: center;
+}
+   
+
